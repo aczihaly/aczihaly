@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aczihaly
-- 👀 I’m interested in black holes, jalapeno cheddar chips, and science communication. 
-- 🌱 I’m currently learning physics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: annabelle.czihaly@gmail.com
+- 👀 I’m interested in nuclear astrophysics, making my own pizza dough, and water colour painting. 
+- 🌱 I’m currently learning physics and boundary setting. 
+- 📫 How to reach me: don't
 
 <!---
 aczihaly/aczihaly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
